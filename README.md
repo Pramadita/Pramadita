@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dita
 
-Curious for everything- !  
+Curious about everything- !  
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
