@@ -13,7 +13,7 @@ Curious for everything- !
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Pramadita&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=Pramaditai&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
+    <img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=Pramadita&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
 </p>
 
 <!--
