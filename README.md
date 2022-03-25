@@ -4,7 +4,8 @@ I Must Not Fear. Fear Is The Mind-Killer. Fear Is The Little Death That Brings O
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    &emsp;🌱 I’m currently learning for front end and data analytics field. </br>
+    &emsp;🔭 I’m currently working on AVANA ASIA </br>
+    &emsp;🌱 I’m currently learning for software testing, system analyst and project management field. </br>
     &emsp; 💬 Ask me about anything.</br>
     &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/pramaditasielda/">LinkedIn!</a></br>
     &emsp; 📫 Email me: pramaditasielda@gmail.com </br>
@@ -21,7 +22,7 @@ I Must Not Fear. Fear Is The Mind-Killer. Fear Is The Little Death That Brings O
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
