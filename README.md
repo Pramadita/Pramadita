@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Dita
 
-Curious about everything- !  
+I Must Not Fear. Fear Is The Mind-Killer. Fear Is The Little Death That Brings Obliteration.- !  
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
