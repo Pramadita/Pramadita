@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Dita 
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary><strong>What i am working on these days</strong></summary>
     &emsp;🔭 I’m currently work as Software Quality Assurance, looking for new opportunity with similar role</br>
     &emsp;🌱 Interest for IT Project Manager and System Analyst position. </br>
     &emsp; 💬 Ask me about anything.</br>
@@ -10,22 +10,67 @@
     &emsp; 😄 Pronouns: She/Her </br>
 </details>
 
+### Work Experience :office:
+* <b>PT.Astra Internasional - AVOWS Technologies as Software Quality Assurance </b>
+  Jul 2022 - Until Now
+  Perform all STLC
+  Test Projects Handling 
+  - Astra Electronic Internal Memo
+  - Astra Automatching RRN 
+  - Astra F-ONE (Discount Management)
+  - Astra SPPH (Automate Additional Discount)
+  - Astra DASS (Improvement Unit Movement Information System)
+
+ * <b>AVANA as Quality Assurance</b>
+   Jan 2022 - Apr 2022
+   Responsibled for reproduce and weekly reporting bug production from CS/CE.
+   Create meticulous scenario testing.
+   Perform Scrum method.
+   
+* <b>Auliya Mursyidi Foundation as Junior Web Developer</b>
+  Mar 2020 - Aug 2020
+  Develop Student Application Web App
+
+* <b>Universitas Komputer Indonesia - PT.INTI as Frontend Android Developer</b>
+  Sep 2019 - Oct 2019
+  Qurban App
+  Initiate FrontEnd Design of Information Page and Details sacrificial animals application
+
+### Tools :wrench:
+* JIRA
+* SQL Server Managemet
+* SAP HANA
+* POSTMAN
+* K6
+* UFT ONE
+* TEST CAFE
+* GITHUB
+* VISUAL STUDIO CODE
+* MS TEAMS
+* SLACK
+
+### Tech skills :computer:
+* Test Management
+* Software Testing
+* API Testing
+* Performance Test (Beginner)
+* Bug Reporting
+* User Manual Crafting
+
+### Soft skills :file_folder:
+* Critical Thinking
+* Problem Solving
+* Communication
+* Assertiveness
+* Time Managemet
+* Teamwork
+
+
+    
+
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Pramadita&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.sera5-dev.vercel.app/api/top-langs/?username=Pramadita&hide_border=true&layout=compact&title_color=000000&tetx_color=000000" width="">
 </p>
 
-<!--
-**Pramadita/Pramadita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
