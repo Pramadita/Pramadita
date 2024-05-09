@@ -1,11 +1,10 @@
-### Hi there 👋, I'm Dita
-
-I Must Not Fear. Fear Is The Mind-Killer. Fear Is The Little Death That Brings Obliteration.- !  
+### Hi there 👋, I'm Dita 
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     &emsp;🔭 I’m currently looking for new opportunity </br>
-    &emsp;🌱 I’m currently learning for software testing, system analyst and data analyst field. </br>
+    &emsp;🌱 I’m currently focusing as Software Quality Assurance. </br>
+    &emsp;🌱 Interest for IT Project Manager and System Analyst position. </br>
     &emsp; 💬 Ask me about anything.</br>
     &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/pramaditasielda/">LinkedIn!</a></br>
     &emsp; 📫 Email me: pramaditasielda@gmail.com </br>
