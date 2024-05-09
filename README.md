@@ -2,7 +2,7 @@
 
 <details>
  <summary><strong>What i am working on these days</strong></summary>
-    &emsp;🔭 I’m currently work as Software Quality Assurance, looking for new opportunity with similar role</br>
+    &emsp;🔭 I’m currently work as Software Quality Assurance, looking for new opportunity for similar role</br>
     &emsp;🌱 Interest for IT Project Manager and System Analyst position. </br>
     &emsp; 💬 Ask me about anything.</br>
     &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/pramaditasielda/">LinkedIn!</a></br>
