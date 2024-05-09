@@ -11,10 +11,10 @@
 </details>
 
 ### Work Experience :office:
-* <b>PT.Astra Internasional - AVOWS Technologies as Software Quality Assurance </b>
-  Jul 2022 - Until Now
-  Perform all STLC
-  Test Projects Handling 
+* <b>PT.Astra Internasional - AVOWS Technologies as Software Quality Assurance </b> </br>
+  Jul 2022 - Until Now </br>
+  Perform all STLC </br>
+  Test Projects Handling </br>
   - Astra Electronic Internal Memo
   - Astra Automatching RRN 
   - Astra F-ONE (Discount Management)
@@ -22,18 +22,18 @@
   - Astra DASS (Improvement Unit Movement Information System)
 
  * <b>AVANA as Quality Assurance</b>
-   Jan 2022 - Apr 2022
-   Responsibled for reproduce and weekly reporting bug production from CS/CE.
-   Create meticulous scenario testing.
-   Perform Scrum method.
+   Jan 2022 - Apr 2022 </br>
+   Responsibled for reproduce and weekly reporting bug production from CS/CE. </br>
+   Create meticulous scenario testing. </br>
+   Perform Scrum method. </br>
    
-* <b>Auliya Mursyidi Foundation as Junior Web Developer</b>
-  Mar 2020 - Aug 2020
-  Develop Student Application Web App
+* <b>Auliya Mursyidi Foundation as Junior Web Developer</b> </br>
+  Mar 2020 - Aug 2020 </br>
+  Develop Student Application Web App </br>
 
-* <b>Universitas Komputer Indonesia - PT.INTI as Frontend Android Developer</b>
-  Sep 2019 - Oct 2019
-  Qurban App
+* <b>Universitas Komputer Indonesia - PT.INTI as Frontend Android Developer</b> </br>
+  Sep 2019 - Oct 2019 </br>
+  Qurban App</br>
   Initiate FrontEnd Design of Information Page and Details sacrificial animals application
 
 ### Tools :wrench:
