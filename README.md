@@ -14,16 +14,16 @@
 * <b>PT.Astra Internasional - AVOWS Technologies as Software Quality Assurance </b> </br>
   Jul 2022 - Until Now </br>
   Perform all STLC </br>
-  Test Projects Handling </br>
-  Finance Core Projects </br>
-  - Astra SPPH (Automate Additional Discount)
-  - Astra F-ONE (Discount Management) </br>
-  Sales Core Projects </br>
-  - Astra Electronic Internal Memo Intransit
-  - Astra Electronic Internal Memo Garwil </br>
-  Logistics Projects </br>
-  - Astra Automatching RRN 
-  - Astra DASS (Improvement Unit Movement Information System)
+  <b>Test Projects Handling </b></br>
+  *  Finance Core Projects </br>
+     - Astra SPPH (Automate Additional Discount)
+     - Astra F-ONE (Discount Management) </br>
+  *  Sales Core Projects </br>
+     - Astra Electronic Internal Memo Intransit
+     - Astra Electronic Internal Memo Garwil </br>
+  *  Logistics Projects </br>
+     - Astra Automatching RRN 
+     - Astra DASS (Improvement Unit Movement Information System)
 
  * <b>AVANA as Quality Assurance</b>
    Jan 2022 - Apr 2022 </br>
