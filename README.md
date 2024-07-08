@@ -3,7 +3,7 @@
 <details>
  <summary><strong>What i am working on these days</strong></summary>
     &emsp;🔭 I’m currently work as Software Quality Assurance, looking for new opportunity for similar role</br>
-    &emsp;🌱 Interest for IT Project Manager and System Analyst position. </br>
+    &emsp;🌱 Interest for System Analyst, Technical Writer, IT Business Analyst, and IT Project Manager  position. </br>
     &emsp; 💬 Ask me about anything.</br>
     &emsp; 📫 How to reach me: <a href="https://www.linkedin.com/in/pramaditasielda/">LinkedIn!</a></br>
     &emsp; 📫 Email me: pramaditasielda@gmail.com </br>
@@ -15,10 +15,14 @@
   Jul 2022 - Until Now </br>
   Perform all STLC </br>
   Test Projects Handling </br>
-  - Astra Electronic Internal Memo
-  - Astra Automatching RRN 
-  - Astra F-ONE (Discount Management)
+  Finance Core Projects </br>
   - Astra SPPH (Automate Additional Discount)
+  - Astra F-ONE (Discount Management)
+  Sales Core Projects </br>
+  - Astra Electronic Internal Memo Intransit
+  - Astra Electronic Internal Memo Garwil
+  Logistics Projects </br>
+  - Astra Automatching RRN 
   - Astra DASS (Improvement Unit Movement Information System)
 
  * <b>AVANA as Quality Assurance</b>
@@ -56,6 +60,8 @@
 * Performance Test (Beginner)
 * Bug Reporting
 * User Manual Crafting
+* Python
+* Javascript
 
 ### Soft skills :file_folder:
 * Critical Thinking
