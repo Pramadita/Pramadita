@@ -17,12 +17,10 @@
   Test Projects Handling </br>
   Finance Core Projects </br>
   - Astra SPPH (Automate Additional Discount)
-  - Astra F-ONE (Discount Management)
-   </br>
+  - Astra F-ONE (Discount Management) </br>
   Sales Core Projects </br>
   - Astra Electronic Internal Memo Intransit
-  - Astra Electronic Internal Memo Garwil
-   </br>
+  - Astra Electronic Internal Memo Garwil </br>
   Logistics Projects </br>
   - Astra Automatching RRN 
   - Astra DASS (Improvement Unit Movement Information System)
